@@ -354,7 +354,7 @@ a{text-decoration: none;}
 
 }
 @media only screen and (min-width: 320px) and (max-width: 767px) {
-	#auto{width: 100%;margin: 0 auto;}
+	#auto{width: 96%;margin: 0 auto;}
 	#top{height: 70px;background: #474747;width: 100%;}
     .top-ul{display: none;}
     .top-show{display: block;}
