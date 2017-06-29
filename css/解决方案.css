@@ -119,10 +119,10 @@ a{text-decoration: none;}
 .fifth-four {
 	height: 177px;width: 22%;float: left;margin-left: 3%;
 }
-.fifth-one>div img{width: 100%;height: 177px;}
-.fifth-two>div img{width: 100%;height: 177px;}
-.fifth-three>div img{width: 100%;height: 177px;}
-.fifth-four>div img{width: 100%;height: 177px;}
+.fifth-one>div img{height: 177px;}
+.fifth-two>div img{height: 177px;}
+.fifth-three>div img{height: 177px;}
+.fifth-four>div img{height: 177px;}
 .fifth-bbb{height: 85px;width: 100%;float: left;margin-top: 60px;}
 .fifth-bbb>img{margin-left: 6px;}
 .fifth-bbb>img:hover{cursor: pointer;}
@@ -394,6 +394,12 @@ a{text-decoration: none;}
 	.eighth-one-two-zi2>span{margin-left: 22px;}
 	.eighth-three-one{width: 70%;margin-left: 19%;}
 	.fifth-bbb{margin-left: 50px;}
+.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 	
 }
 @media only screen and (min-width: 320px) and (max-width: 767px) {
@@ -402,11 +408,11 @@ a{text-decoration: none;}
     .top-ul{display: none;}
     .top-show{display: block;}
     .frist {
-		height: 200px;
+		height: 270px;
 		width: 100%;
 	}
 	.frist-img {
-		height: 200px;
+		height: 270px;
 		width: 100%;
 	}
 		.second-one{height: 350px;width: 30%;float: left;margin-left: 10%;}
@@ -530,21 +536,26 @@ a{text-decoration: none;}
 .fifth-two div{text-align: center;}
 .fifth-three div{text-align: center;}
 .fifth-four div{text-align: center;}
-
+.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 
 	
-}
+
 @media only screen and (min-width: 100px) and (max-width: 319px) {
 	#auto{width: 100%;margin: 0 auto;}
 	#top{height: 70px;background: #474747;width: 100%;}
     .top-ul{display: none;}
     .top-show{display: block;}
     .frist {
-		height: 178px;
+		height: 270px;
 		width: 100%;
 	}
 	.frist-img {
-		height: 178px;
+		height: 270px;
 		width: 100%;
 	}
 	.second-one{height: 410px;width: 30%;float: left;margin-left: 10%;}
@@ -625,6 +636,12 @@ a{text-decoration: none;}
 		width: 100%;
 	}
 	.seventh-one-one{margin-top: 10px;}
+.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 	}
 
 }

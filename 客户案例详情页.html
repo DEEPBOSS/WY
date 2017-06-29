@@ -272,10 +272,14 @@
 		$(".all").hide()
 		$(".top-show").click(function() {
 			$(".all").css("display","block")
+			$("#top").css("z-index","0")
 		})
 		$(".all-img").click(function() {
 			$(".all").css("display","none")
+			$("#top").css("z-index","99")
+			
 		})
+
 		
 		$(".top-ul-jiejue").hover(function() {
 			$(".top-he").css({

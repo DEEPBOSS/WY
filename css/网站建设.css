@@ -343,7 +343,12 @@ a{text-decoration: none;}
 	line-height: 50px;
 }
 .second-right-zi4{width: 100%;height: 16px;float: left;margin-top: 20px;margin-left: 10%;}
-
+.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 
 
 
@@ -359,11 +364,11 @@ a{text-decoration: none;}
     .top-ul{display: none;}
     .top-show{display: block;}
     .frist {
-		height: 200px;
+		height: 270px;
 		width: 100%;
 	}
 	.frist-img {
-		height: 200px;
+		height: 270px;
 		width: 100%;
 	}
 	.eighth-one-one>div {
@@ -418,7 +423,12 @@ a{text-decoration: none;}
 	.eighth-one-two-zi1{width: 74%;}
 	.eighth-one-two-zi2{width: 80%;}
 	.eighth-three-one{width: 96%;margin-left: 6%;}
-	
+	.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 	
 }
 @media only screen and (min-width: 100px) and (max-width: 319px) {
@@ -427,11 +437,11 @@ a{text-decoration: none;}
     .top-ul{display: none;}
     .top-show{display: block;}
     .frist {
-		height: 178px;
+		height: 270px;
 		width: 100%;
 	}
 	.frist-img {
-		height: 178px;
+		height: 270px;
 		width: 100%;
 	}
 	.fourth-two {
@@ -504,7 +514,12 @@ a{text-decoration: none;}
 	}
 	
 	.second-right-zi4{width: 100%;height: 16px;float: left;margin-top: 60px;margin-left: 10%;}
-	
+	.all{height: 50%;}
+.all-ul>li>a{font-size: 16px;}
+.all-ul{margin-top: 70px;}
+.top-show{margin-right: 10px;}
+#top{position: fixed;}
+#top{z-index: 99;}
 	
 	
 	
